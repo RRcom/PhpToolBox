@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-0": {
-            "RRcom\\PHPToolBox\\": "",
+            "RRcom\\PHPToolBox\\": ""
         }
     },
 	"target-dir": "PHPToolBox/libraries/"
