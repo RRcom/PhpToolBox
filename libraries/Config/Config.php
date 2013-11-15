@@ -1,5 +1,5 @@
 <?php
-namespace RRcom\PHPToolBox\Config;
+namespace RRcom\PhpToolBox\Config;
 
 class Config {
     
