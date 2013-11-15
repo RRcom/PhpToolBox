@@ -21,8 +21,9 @@ return array(
         'cookieDomain' => '',
         'cookieName' => '',
         'cookieExpire' => 0,
-        'encriptCookie' => TRUE,
-        'encriptKey' => '',
+        'encryptCookie' => FALSE,
+        'encryptKey' => '',
+        'encryptSalt' => '',
     ),
     'doctrine' => array(
         'connection' => array(
