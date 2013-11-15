@@ -1,0 +1,25 @@
+{
+    "name": "RRcom/PHPToolBox",
+    "type": "library",
+    "description": "PHP Basic tools for creating web application or services",
+    "keywords": ["RRcom","php helper","php tools","toolbox","framework","libraries"],
+    "homepage": "http://github.com/RRcom/phptoolbox",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Restituto P. Rizal",
+            "email": "resty_rizal@live.com",
+            "homepage": "http://iliked.me",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "RRcom\\PHPToolBox\\": "",
+        }
+    },
+	"target-dir": "PHPToolBox/libraries/"
+}
