@@ -1,5 +1,5 @@
 {
-    "name": "rrcom/phptoolbox",
+    "name": "phptoolbox",
     "type": "library",
     "description": "PHP Basic tools for creating web application or services",
     "keywords": ["RRcom","php helper","php tools","toolbox","framework","libraries"],
@@ -18,8 +18,8 @@
     },
     "autoload": {
         "psr-0": {
-            "RRcom\\PHPToolBox\\": ""
+            "PhpToolBox\\": "/libraries"
         }
     },
-	"target-dir": "PHPToolBox/libraries/"
+	"target-dir": "PhpToolBox/libraries/"
 }
