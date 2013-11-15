@@ -1,9 +1,9 @@
 <?php
-namespace RRcom\PhpToolBox\Config;
+namespace RRcom\PhpToolBox;
 
 class Config {
     
-    const DEFAULT_CONFIG_FILE = '../../config/config.php';
+    const DEFAULT_CONFIG_FILE = '../../../config/config.php';
 
     public $config;
     
